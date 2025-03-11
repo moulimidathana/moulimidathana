@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moulimidathana
-- 👀 I’m interested in internet of things,vlsi amd embedded system 
-- 🌱 I’m currently learning Arduino projects 
-- 💞️ I’m looking to collaborate on arduino projects or any elctronics related projects
+- 👀 I’m interested in VLSI & Internet of things
+- 🌱 I’m currently learning vlsi FPGA projects and  Arduino projects 
+- 💞️ I’m looking to collaborate on VLSI FPGA & arduino projects or any elctronics related projects
 - 📫 How to reach me mail id: midathanamouli03@gmail.com
 - 😄 Pronouns: he/him
 
